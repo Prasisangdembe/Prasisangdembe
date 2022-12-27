@@ -3,7 +3,7 @@
 
 
 
-- 🔭I'm a  Passionate Cyber Security Enthusiast ||
+- 🔭I'm a  Passionate Data Science Enthusiast ||
 -  I will make you love Physics & Mathematics ||
 -   I'm completely engrossed with quantum physics and astrophysics.
 - 🌱 I’m currently learning python programming
